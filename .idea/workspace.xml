@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49813404-0e22-4018-97cd-b42bc6c290ac" name="Default" comment="none">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmetal-algorithm/jmetal-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jmetal-algorithm/jmetal-algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jmetal-exec/jmetal-exec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jmetal-exec/jmetal-exec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/Juzzy.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49195403" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
@@ -676,14 +675,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="none" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1606278192138">
+    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1606278380215">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1280.777@0.23.1280.777" timestamp="1606278192138" />
-    <state x="128" y="23" key="SettingsEditor" timestamp="1606278201074">
+    <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1280.777@0.23.1280.777" timestamp="1606278380215" />
+    <state x="198" y="23" key="CommitChangelistDialog2" timestamp="1606278222115">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1606278201074" />
+    <state x="198" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1606278222115" />
+    <state width="1238" height="196" key="GridCell.Tab.0.bottom" timestamp="1606278276399">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1606278276399" />
+    <state width="1238" height="196" key="GridCell.Tab.0.center" timestamp="1606278276398">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1606278276398" />
+    <state width="1238" height="196" key="GridCell.Tab.0.left" timestamp="1606278276397">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1606278276397" />
+    <state width="1238" height="196" key="GridCell.Tab.0.right" timestamp="1606278276398">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="196" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1606278276398" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1606278382375">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1606278382375" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1606278235088">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1606278235088" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
