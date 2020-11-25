@@ -12,7 +12,6 @@
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/unknown/unkown/0.0.1/unkown-0.0.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fuzzylite/jfuzzylite/5.0/jfuzzylite-5.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar" path-in-jar="/" />
     </root>
   </artifact>
