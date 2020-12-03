@@ -1,4 +1,11 @@
-# Micro-FAME implementation based on jMetal 5.0
+# Micro-Genetic Algorithm with Fuzzy Selection of Operators for Multi-Objective Optimization: Micro-FAME
+
+Micro-FAME source code implemented based on the framework **jMetal 5.0**
+
+Alejandro Santiago, Bernabé Dorronsoro, Héctor J. Fraire, Patricia Ruiz,
+Micro-Genetic Algorithm with Fuzzy Selection of Operators for Multi-Objective Optimization: μFAME,
+Swarm and Evolutionary Computation, 2020, 100818, ISSN 2210-6502,
+https://doi.org/10.1016/j.swevo.2020.100818.
 
 Author: Alejandro Santiago <aurelio.santiago@upalt.edu.mx>
 
